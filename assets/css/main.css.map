@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sources":["../sass/components/_carousel.scss","main.css"],"names":[],"mappings":"AACA;EACI,aAAA;EACA,iBAAA;EACA,oBAAA;KAAA,iBAAA;EACA,uBAAA;ACAJ","file":"main.css"}
